@@ -2,6 +2,9 @@
 title: Pure Engineering
 timezone: UTC
 collections:
+  collection:
+    title: Collection
+    output: true
   posts:
     title: Posts
     output: true
